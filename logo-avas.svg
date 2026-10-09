@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#FF82B4" />
+      <stop offset="1" stop-color="#FFB3D1" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(8,6)">
+    <g id="flower" transform="translate(0,0) scale(0.9)">
+      <path d="M30 6c2 0 6 4 6 6s-4 4-6 6-6-4-6-6 4-6 6-6z" fill="url(#g1)" transform="rotate(-18 30 12)"/>
+      <path d="M30 6c2 0 6 4 6 6s-4 4-6 6-6-4-6-6 4-6 6-6z" fill="#FF9ABF" transform="rotate(18 30 12)"/>
+      <circle cx="30" cy="18" r="3" fill="#FFD7E8" />
+    </g>
+    <text x="66" y="22" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="20" fill="#071026">AVAS</text>
+    <text x="122" y="22" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="11" fill="#071026">FLOWERS</text>
+  </g>
+</svg>
